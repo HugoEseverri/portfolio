@@ -1725,6 +1725,7 @@ form ::-moz-focus-inner {
 .image img {
 	display: block;
 	width: 100%;
+	height: 182px;
 }
 
 .image.fit {
@@ -2214,7 +2215,7 @@ ul.actions.special {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url("images/overlay.png");
+	background-color: rgba(39,42,51,255)
 }
 
 .homepage #header {
